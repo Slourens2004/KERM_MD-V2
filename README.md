@@ -16,14 +16,14 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Slourens-cmr"><img title="Author" src="https://img.shields.io/badge/SLOURENS-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/50940489554"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Slourens-cmr"><img title="Author" src="https://img.shields.io/badge/Slourens2004-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/50940489554"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 <p align="center">
-<a href="https://github.com/Slourens-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Slourens-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2?color=white&style=flat-square"></a>
-<a href="https://github.com/Slourens-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Slourens-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Slourens-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Slourens-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Slourens/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Slourens/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Slourens2004-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Slourens2004-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2?color=white&style=flat-square"></a>
+<a href="https://github.com/Slourens2004-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Slourens2004-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Slourens2004-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Slourens2004-cmr/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Slourens2004/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Slourens2004/ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
         <a href = ""><img alt="ᔕᒪOᑌᖇEᑎᔕ_ᗰᗪ_ᐯ2" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 ### 1. FORK THIS REPO
